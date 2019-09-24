@@ -1,5 +1,11 @@
 # SwattingRegistry
 
+## Emotional Basis for SwattingRegistry
+
+On Tyler Barriss killed 28 year old Andrew Finch. He did this by convincing Wichita, Kansas police that he had killed  https://www.latimes.com/local/lanow/la-me-ln-barriss-swatting-suspect-20180104-story.html
+https://en.wikipedia.org/wiki/2017_Wichita_swatting
+## Inspired by Sean Whitcomb
+
 * Inspired by the work of Sean Whitcomb, https://www.linkedin.com/in/seanpwhitcomb, who designed the first ever publicly promoted Swatting Concerns Registry, see https://www.seattle.gov/police/need-help/swatting, https://www.wired.com/story/how-to-stop-swatting-before-it-happens-seattle/
 
 ## Project manager: Tim Clemans
