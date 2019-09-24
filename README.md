@@ -22,6 +22,7 @@ Intergrations are in closed source repos one repo per intergration and owned joi
 Combination of:
 
 * Opt-in registry: household model written, non household like gamer's business location is needed
+  * Auto submission to Rave Facility, CAD/RMS systems via intergration either screen scraper or API
 * Swatting detection system or demertaion based on history that report is real
   * 911 caller history
   * Address history
