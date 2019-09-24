@@ -42,6 +42,7 @@ Combination of:
 * Threat analysis
   * Web crawler
 * Realtime cross agency sharing
+  * Investigations: https://www.latimes.com/local/lanow/la-me-ln-barriss-swatting-suspect-20180104-story.html
   * False reporting by terrorist group
 * Criminal investigation assistance 
   * Evidence archiving
