@@ -84,6 +84,8 @@ Even though deleted the phone numbers are on Archive.org
 #### Switch to ASAP and discontiue static numbers 
 
 [![Automated Secure Alarm Protocol  overview by The Monitoring Association](https://img.youtube.com/vi/6K0g-VyXrxg/0.jpg)](https://www.youtube.com/watch?v=6K0g-VyXrxg)
+[ASAP Demo with City of Richmond & Vector Security Using Richmond's Intergraph CAD System](https://www.youtube.com/watch?v=M27fWKl9TUA)
+[![](https://www.youtube.com/watch?v=M27fWKl9TUA)](https://www.youtube.com/watch?v=M27fWKl9TUA)
 #### Elimate DMF tones
 
 ### Relays
