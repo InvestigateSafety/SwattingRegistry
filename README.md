@@ -34,6 +34,8 @@ Intergrations are in closed source repos one repo per intergration and owned joi
 
 #### Address to phone numbers
 
+
+
 ##### LexisNexis
 
 ##### Rave Facicility 
@@ -65,7 +67,8 @@ Combination of:
     * Video streams
     * Chats
   * Auto warrant request writing
-* Address to phone numbers auto lookup 
+* Address to phone numbers auto lookup
+  * Automatically contact an address' alarm company and request they call people on file and provide status of the alarm system
 * Auto phone call and messaging
 * Policies registry and incident investigation by InvestigateSafety
   * Structured database of false reporting by citizen that ended up routed to dispatch
