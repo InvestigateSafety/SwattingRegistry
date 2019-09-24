@@ -7,6 +7,12 @@ SwattingRegistry is a demonstration project by InvestigateSafety's demonstration
 
 Long term implementation goal: transfer ownership of site to FBI or DHS domain would be swattingregistry.gov with a contract with Code for America (software development), Axon (intergration), Mark43 (intergration), Rave, 
 
+# Independent Reviewers
+
+* Sean Whitcomb: Seattle Police Department Sergeant in charge of the Public Affairs Unit https://www.linkedin.com/in/seanpwhitcomb
+* Elisa Huntley: https://www.linkedin.com/in/elisahuntley/
+* Kevin Fray: Mark43 Pre-Sales Lead Principal Solutions Architect https://www.linkedin.com/in/kevinfray/
+
 # Hybird Open Source and Closed Source Strategy
 
 Intergrations are in closed source repos one repo per intergration and owned jointly by the vendor and ulimiately Code for America (if CA agrees to take over development).
