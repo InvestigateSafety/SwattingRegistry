@@ -68,6 +68,7 @@ Combination of:
     * Video streams
     * Chats
   * Auto warrant request writing
+  * Auto request to DEA/AT&T Hemisphere Project which catch a bomb hoaxer https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/02/us/hemisphere-project.html?module=inline#p24
 * Address to phone numbers auto lookup
   * Automatically contact an address' alarm company and request they call people on file and provide status of the alarm system
 * Auto phone call and messaging
