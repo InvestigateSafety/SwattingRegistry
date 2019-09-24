@@ -87,7 +87,7 @@ Even though deleted the phone numbers are on Archive.org
 
 [ASAP Demo with City of Richmond & Vector Security Using Richmond's Intergraph CAD System](https://www.youtube.com/watch?v=M27fWKl9TUA)
 
-[![](https://www.youtube.com/watch?v=M27fWKl9TUA)](https://www.youtube.com/watch?v=M27fWKl9TUA)
+[(https://img.youtube.com/vi/M27fWKl9TUA/0.jpg)](https://www.youtube.com/watch?v=M27fWKl9TUA)
 
 #### Elimate DMF tones
 
