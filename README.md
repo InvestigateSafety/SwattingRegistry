@@ -8,7 +8,13 @@ SwattingRegistry is a demonstration project by InvestigateSafety's demonstration
 Combination of:
 
 * Opt-in registry: household model written, non household like gamer's business location is needed
-* Swatting detection system
+* Swatting detection system or demertaion based on history that report is real
+  * 911 caller history
+  * Address history
+  * History of indivuals associated with address
+  * Billing data & emergency regisration
+  * VOIP provider (consumer [Vonage, Xfinity] vs developer [Twillio, FlowRoute])
+  
 * Threat analysis
 * Criminal investigation assistance 
   * Evidence archiving
