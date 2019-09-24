@@ -17,6 +17,10 @@ Long term implementation goal: transfer ownership of site to FBI or DHS domain w
 
 Intergrations are in closed source repos one repo per intergration and owned jointly by the vendor and ulimiately Code for America (if CA agrees to take over development).
 
+# Anti Disclosure Strategy
+
+Data would be owned by FBI or DHS or both with registry data only shared during swatting.
+
 # Components
 
 Combination of:
