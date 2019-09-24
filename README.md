@@ -27,7 +27,7 @@ Combination of:
 
 * Opt-in registry: household model written, non household like gamer's business location is needed
   * Auto submission to Rave Facility, CAD/RMS systems via intergration either screen scraper or API
-* Swatting detection system or demertaion based on history that report is real https://www.youtube.com/watch?v=mBOLml3yLBY
+* Swatting detection system or demertaion based on history that report is real https://www.defcon.org/images/defcon-22/dc-22-presentations/Quaddi-R3plicant-Hefley/DEFCON-22-Quaddi-R3plicant-Hefley-Hacking-911-UPDATED.pdf https://www.youtube.com/watch?v=mBOLml3yLBY
   * 911 caller history
   * Address history
   * History of indivuals associated with address
