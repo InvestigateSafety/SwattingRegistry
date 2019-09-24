@@ -13,7 +13,7 @@ Long term implementation goal: transfer ownership of site to FBI or DHS domain w
 * Elisa Huntley: https://www.linkedin.com/in/elisahuntley/
 * Kevin Fray: Mark43 Pre-Sales Lead Principal Solutions Architect https://www.linkedin.com/in/kevinfray/
 
-# Hybird Open Source and Closed Source Strategy
+# Hybird Open and Closed Source Strategy
 
 Intergrations are in closed source repos one repo per intergration and owned jointly by the vendor and ulimiately Code for America (if CA agrees to take over development).
 
