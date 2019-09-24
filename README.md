@@ -5,6 +5,8 @@ Project manager: Tim Clemans
 
 SwattingRegistry is a demonstration project by InvestigateSafety's demonstration technolgy development group. It's purpose is to save lives by alerting law enforcement that a citizen's report to the agency is likely false, confirming that target(s) is not at target location or via internet video stream that no crime is in progress, automating investigation procedures, and providing feedback on policies and complaiance to them
 
+Long term implementation goal: transfer ownership to FBI or DSHS domain would be swattingregistry.gov
+
 Combination of:
 
 * Opt-in registry: household model written, non household like gamer's business location is needed
