@@ -74,8 +74,17 @@ Combination of:
 * Policies registry and incident investigation by InvestigateSafety
   * Structured database of false reporting by citizen that ended up routed to dispatch
   
-## Vulnerability Relays 
+## Vulnerabities 
 
-### Noonlight
+### Public 10 digit emergency numbers given to alarm companies
+
+#### Switch to ASAP and discontiue static numbers 
+
+The Automated Secure Alarm Protocol (ASAP) program is a computer-aided dispatch system designed by The Monitoring Association (TMA) and the Association of Public Safety Communications Officials (APCO Int'l).
+https://www.youtube.com/watch?v=6K0g-VyXrxg
+
+### Relays
+
+#### Noonlight
 
 * GPS spoofing
