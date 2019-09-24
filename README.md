@@ -7,6 +7,12 @@ SwattingRegistry is a demonstration project by InvestigateSafety's demonstration
 
 Long term implementation goal: transfer ownership of site to FBI or DHS domain would be swattingregistry.gov with a contract with Code for America (software development), Axon (intergration), Mark43 (intergration), Rave, 
 
+# Hybird Open Source and Closed Source Strategy
+
+Intergrations are in closed source repos one repo per intergration and owned jointly by the vendor and ulimiately Code for America (if CA agrees to take over development).
+
+# Components
+
 Combination of:
 
 * Opt-in registry: household model written, non household like gamer's business location is needed
