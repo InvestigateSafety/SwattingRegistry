@@ -10,7 +10,12 @@ Long term implementation goal: transfer ownership of site to FBI or DHS domain w
 # Independent Reviewers
 
 * Sean Whitcomb: Seattle Police Department Sergeant in charge of the Public Affairs Unit https://www.linkedin.com/in/seanpwhitcomb
-* Elisa Huntley: https://www.linkedin.com/in/elisahuntley/
+* Chris Metcalf: Formerly Developer Relations for Socrata
+* Elisa Huntley: 
+  * 10 years as a police analyst (20,800 hours approximately)
+  * trained in SQL and have delved into the back end of the Records Management System (Versaterm)
+  * Worked with the SPD analysts directly 
+  * https://www.linkedin.com/in/elisahuntley/
 * Kevin Fray: Mark43 Pre-Sales Lead Principal Solutions Architect https://www.linkedin.com/in/kevinfray/
 
 # Hybird Open and Closed Source Strategy
