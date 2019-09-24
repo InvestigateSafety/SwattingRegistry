@@ -83,10 +83,8 @@ Even though deleted the phone numbers are on Archive.org
 
 #### Switch to ASAP and discontiue static numbers 
 
-The Automated Secure Alarm Protocol (ASAP) program is a computer-aided dispatch system designed by The Monitoring Association (TMA) and the Association of Public Safety Communications Officials (APCO Int'l).
-https://www.youtube.com/watch?v=6K0g-VyXrxg
-
-#### Elimate DMT tones
+[![Automated Secure Alarm Protocol  overview by The Monitoring Association](https://img.youtube.com/vi/6K0g-VyXrxg/0.jpg)](https://www.youtube.com/watch?v=6K0g-VyXrxg)
+#### Elimate DMF tones
 
 ### Relays
 
