@@ -1,6 +1,6 @@
 # SwattingRegistry
 
-Inspired by the work of Sean Whitcomb https://www.wired.com/story/how-to-stop-swatting-before-it-happens-seattle/
+Inspired by the work of Sean Whitcomb to develop the first ever publicly promoted Swatting Concerns Registry, see https://www.seattle.gov/police/need-help/swatting, https://www.wired.com/story/how-to-stop-swatting-before-it-happens-seattle/
 Project manager: Tim Clemans
 
 SwattingRegistry is a demonstration project by InvestigateSafety's demonstration technolgy development group. It's purpose is to save lives by alerting law enforcement that a citizen's report to the agency is likely false, confirming that target(s) is not at target location or via internet video stream that no crime is in progress, automating investigation procedures, and providing feedback on policies and complaiance to them
