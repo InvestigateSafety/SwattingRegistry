@@ -104,3 +104,10 @@ Even though deleted the phone numbers are on Archive.org
 ## Research
 
 Data table in very early development https://airtable.com/shrxHzP1Z9UmrL0yW
+
+### Existing registeries
+
+* Seattle Police https://www.seattle.gov/police/need-help/swatting
+* Bellevue WA Police via NORCOM https://twitter.com/bvuepd/status/1162885215804481537?s=12
+* King County Sheriff's Office if active threat. Call non-emergency line at 206-296-3311
+* Sedgwick County https://lfforms.wichita.gov/Forms/SWATTINGAlert
