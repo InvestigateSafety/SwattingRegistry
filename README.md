@@ -54,6 +54,7 @@ Combination of:
   * Do you have a VOIP account registered to your address? This way 911 knows a VOIP call with emergency address of target is likely fake.
   * Having "target" put in the dispatch number that will call them so iPhone emergency bypass and custom ringtone set. This is a work in process "Hey Sean if I were to get swatted would the caller id on my phone be 206-583-2111? I'm setting custom ringtone and emergency bypass "emergency bypass allows sounds and vibrations from this person even when do not disturb is on""
   * Recordings of people who live/work/visit at target address. Let's say attacker says "I killed my parents" then dispatch pulls up son's recording and compares it to 911 call
+  * A Twillio number for each target that when called sets off an app saying really loudly "SWATTING ALERT SWATTING ALERT SWATTING ALERT  leave the building immediately and call 911"
 * Swatting detection system or demertaion based on history that report is real https://www.defcon.org/images/defcon-22/dc-22-presentations/Quaddi-R3plicant-Hefley/DEFCON-22-Quaddi-R3plicant-Hefley-Hacking-911-UPDATED.pdf https://www.youtube.com/watch?v=mBOLml3yLBY
   * 911 caller history
   * Address history
